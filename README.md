@@ -16,9 +16,12 @@ Bem-vindo ao meu projeto feito durante minha participação no bootcamp de html 
 
   
   
-  ![instagram pc](C:\Users\Muril\Desktop\instagram pc.png)
+ ![instagram pc](https://user-images.githubusercontent.com/55301440/124055959-3b4f3f00-d9fb-11eb-9399-89faefc4999e.png)
+
+
   
-  ![instagram cel](C:\Users\Muril\Desktop\instagram cel.png)
+  ![instagram cel](https://user-images.githubusercontent.com/55301440/124055978-44d8a700-d9fb-11eb-8fb7-6ee65e854c4c.png)
+
   
   
   
