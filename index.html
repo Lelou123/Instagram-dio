@@ -8,12 +8,19 @@
         <link rel="shortcut icon" href="imagens/instagram.png">
     </head>
 
-    <body>
+    <body id="body">
+        
         <div class="instagram-wrapper">
+
+            <div class="cor">
+                <img src="imagens/abajur.png" class="cor" onclick="Troca()" width="100" height="100" alt="">
+            </div>
+
             <div class="instagram-phone">
                 <img src="imagens/instagram-celular.png" alt="celular">
             </div>
-                <div class="instagram-continue">
+
+            <div class="instagram-continue">
                     <div class="grupo">
                         <div clas="instagram-logo">
                             <img src="imagens/instagram-logo.png" alt="instagram-logo">
@@ -32,7 +39,7 @@
                             ou
                             <span class="link-blue">Inscreva-se</span>
                         </p>
-                    </div>
+                    </div><!--Fecha grupo-->
 
                     <div class="get-the-app">
                         <p class="get-app"><p"><strong>Baixe o aplicativo</strong></p>
@@ -44,9 +51,11 @@
                                 <a href="#"><img src="./imagens/googleplay-button.png" alt="gogleplay botao"></a>
                             </div>
                         </div>
-                    </div>
-                </div>
-            
-        </div>
+                    </div><!--Fecha Get the app-->
+            </div> <!--Fecha instagram-continue-->  
+        </div><!--Fecha instagram-wrapper-->
 
+        <script src="js/jquery-1.11.1.min.js"></script>
+        <script src="js/setup.js"></script>
+    </body>
 </html>
